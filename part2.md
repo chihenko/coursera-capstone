@@ -33,4 +33,4 @@ https://en.wikipedia.org/wiki/Cuisine_of_New_York_City
 https://en.wikipedia.org/wiki/List_of_Michelin_starred_restaurants_in_New_York_City
 
 # Data 4 : 
-Newyork city geographical coordinates data will be utilized as input for the Foursquare API, that will be leveraged to provision venues information for each neighborhood.We will use the Foursquare API to explore neighborhoods in New York City. The below is image of the Foursquare API data.
+Newyork city geographical coordinates data will be utilized as input for the Foursquare API, that will be leveraged to provision venues information for each neighborhood.We will use the Foursquare API to explore neighborhoods in New York City. 
